@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <rect width="320" height="180" fill="#fffaf7"/>
+  <rect x="18" y="22" width="124" height="104" fill="#fde8df" stroke="#d36b45"/>
+  <circle cx="68" cy="70" r="28" fill="#d36b45" opacity=".85"/>
+  <path d="M48 112 C62 92 84 92 98 112" fill="none" stroke="#a94424" stroke-width="5"/>
+  <rect x="170" y="22" width="124" height="104" fill="#eef6f9" stroke="#4c8ca4"/>
+  <path d="M184 102 L210 72 L232 86 L280 44" fill="none" stroke="#287a91" stroke-width="6"/>
+  <text x="24" y="160" font-family="Arial" font-size="20" fill="#263238">Maternal Mortality</text>
+</svg>
