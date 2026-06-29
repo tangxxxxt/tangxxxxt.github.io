@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
-  <rect width="320" height="180" fill="#fbfcff"/>
-  <path d="M38 126 C58 42 126 32 158 82 C190 132 236 44 284 118" fill="none" stroke="#4469a8" stroke-width="8"/>
-  <circle cx="78" cy="72" r="18" fill="#d95f59"/>
-  <circle cx="158" cy="82" r="18" fill="#4b9f72"/>
-  <circle cx="238" cy="70" r="18" fill="#e8a33a"/>
-  <text x="24" y="160" font-family="Arial" font-size="20" fill="#263238">Human Geography</text>
-</svg>

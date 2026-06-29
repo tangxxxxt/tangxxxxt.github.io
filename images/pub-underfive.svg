@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
-  <rect width="320" height="180" fill="#fffafa"/>
-  <rect x="26" y="28" width="110" height="94" fill="#ffe6e6" stroke="#ce5b66"/>
-  <circle cx="80" cy="62" r="22" fill="#ce5b66"/>
-  <path d="M52 108 C62 84 100 84 110 108" fill="none" stroke="#a33d46" stroke-width="6"/>
-  <rect x="174" y="28" width="110" height="94" fill="#eef7ff" stroke="#558bb8"/>
-  <path d="M190 92 C210 58 236 116 270 54" fill="none" stroke="#558bb8" stroke-width="6"/>
-  <text x="24" y="160" font-family="Arial" font-size="20" fill="#263238">Under-Five Mortality</text>
-</svg>
