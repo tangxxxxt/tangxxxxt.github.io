@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Land change survey icon">
+  <defs>
+    <linearGradient id="land-bg" x1="22" y1="18" x2="138" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12324a"/>
+      <stop offset=".56" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#9a6b21"/>
+    </linearGradient>
+    <linearGradient id="land-map" x1="42" y1="46" x2="126" y2="117" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4fbf8"/>
+      <stop offset="1" stop-color="#d8efe7"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="72" fill="url(#land-bg)"/>
+  <circle cx="80" cy="80" r="63" fill="none" stroke="rgba(255,255,255,.45)" stroke-width="2"/>
+  <path d="M37 57l31-14 28 14 27-12v61l-27 12-28-14-31 14z" fill="url(#land-map)" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M68 43v61M96 57v61" stroke="#8fb9aa" stroke-width="3"/>
+  <path d="M45 72c12-8 22-8 34 0s22 8 36-2M45 91c13-7 24-6 36 2s22 8 34-1" fill="none" stroke="#2f7d65" stroke-width="4" stroke-linecap="round"/>
+  <path d="M95 35l13 8-10 32-16 10 2-19z" fill="#f6c560" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M106 44l11-16" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="53" cy="104" r="6" fill="#d94a38" stroke="#fff" stroke-width="3"/>
+  <circle cx="113" cy="87" r="5" fill="#d94a38" stroke="#fff" stroke-width="3"/>
+</svg>
